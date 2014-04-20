@@ -1,0 +1,18 @@
+scheme: "Argy"
+author: "Jeff Argast (http://www.linkedin.com/in/jeffargast, https://github.com/jeffargast)"
+base00: "000000" # Background
+base01: "808080" # Gutter background & divider
+base02: "7a9bc2" # Selection
+base03: "cfbf90" # Comments
+base04: "808080" # Gutter selection foreground
+base05: "eeeeff" # Foregraound, quotes charater, parenthesis character, bracket character, function parameters
+base06: "ee0000" # base16-builder: Mark Down heading
+base07: "fc8000" # meta.class, mark up link text
+base08: "267fb5" # Keys, Tags
+base09: "267fb5" # Constants, Float, Boolean, Numeric, XML Attributes
+base0A: "267fb5" # jQuery $, external library/functions (e.g. JS document & window, obj-c NSColor)
+base0B: "6ee2ff" # String literals
+base0C: "96BBE0" # Built in functions/macros (e.g. floor, NSMaxX), regex, escaped
+base0D: "96BBE0" # Class method declarations/definitions, function calls 
+base0E: "267fb5" # Storage types (e.g. int, char, bool), keywords (e.g. if/else/switch/case/public/private/var), define/ifdef/include
+base0F: "ffff70" # punctuation.section.embedded, variable.interpolation (e.g. replacement region in erb), mark up link url
